@@ -1,0 +1,21 @@
+### Create a post
+POST http://localhost:8080/posts
+Content-Type: application/json
+
+{
+    "user_id": 2,
+    "image_url": "https://test.com/image.jpg"
+}
+
+### Create a follow
+POST http://localhost:8081/follows
+Content-Type: application/json
+
+{
+    "follower_id": 1,
+    "followee_id": 2
+}
+
+### Get followers
+GET http://localhost:8081/followers/2
+
