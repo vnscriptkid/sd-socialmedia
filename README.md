@@ -7,3 +7,6 @@
 - https://systemdesignschool.io/problems/twitter
 - https://youtu.be/9-hjBGxuiEs?si=z9xtl4ZscUMyqidd
 - https://youtu.be/FEkXjNFrL1o?si=1mIxFpNWIb3vFlap
+
+## TODOs
+- Demo postgresql sharding
